@@ -12,5 +12,7 @@
 
 ## 03_wth_openai_frmwrk.ipynb
 - Utilisation du framework OpenAI SDK - pas possible depuis InnoLab
+- Remarque : dans Colab installer le OpenAI SDK (!pip install openai-agents)
 - Les outils sont des fonctions (pas d'appels API) transformées en outils grâce au décorateur @function_tool
 - Chat en ligne de commande ou avec utilisation de gradio 
+
